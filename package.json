@@ -1,0 +1,17 @@
+{
+  "name": "@musicq/just-prettier-config",
+  "description": "Just preset prettier config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "musicq <liang.kui@hotmail.com>",
+  "prettier": "@musicq/just-prettier-config",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musicq/just-prettier-config.git"
+  },
+  "keywords": [
+    "just",
+    "prettier-config"
+  ]
+}
